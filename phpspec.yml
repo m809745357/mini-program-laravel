@@ -1,0 +1,4 @@
+suites:
+  library_suite:
+    namespace: M809745357\Miniprogram\Tests
+    psr4_prefix: M809745357\Miniprogram\Tests
