@@ -13,7 +13,7 @@
 首先，安装 laravel 5.5，并保证数据库正常链接。并且正常安装 `laravel/passport`
 
 ```shell
-composer require m809745357/miniprogram
+composer require m809745357/mini-program
 ```
 
 在 `config/app.php` 文件中添加一下代码：
